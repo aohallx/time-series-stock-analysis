@@ -87,7 +87,7 @@ An applied machine learning project predicting momentum reversals in Tesla stock
 ## Project Files
 
 ```bash
-├── tesla_features.csv             # Cleaned + feature-engineered dataset
-├── tesla_reversal_model.ipynb     # Jupyter Notebook (Python + ML pipeline)
-├── tableau_export.twbx            # Tableau project (optional)
+├── tesla_features_for_tableau.csv       # Cleaned + feature-engineered dataset
+├── TeslaStockReversalPrediction.ipynb   # Jupyter Notebook (Python + ML pipeline)
+├── Tesla_Stock_Analysis.twbx            # Tableau project (optional)
 ├── README.md
