@@ -7,7 +7,7 @@ An applied machine learning project predicting momentum reversals in Tesla stock
 ## Data Analyzed by  
 **Aidan O'Halloran**  
 [linkedin.com/in/aohallx](https://www.linkedin.com/in/aohallx/)  
-[Live Tableau Dashboard](https://public.tableau.com/views/TeslaStockReversalPredictionAnalysis/Sheet1)
+[Live Tableau Dashboard](https://public.tableau.com/views/TeslaStockReversalPredictionAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
