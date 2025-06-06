@@ -1,5 +1,3 @@
-# time-series-stock-analysis
-Detecting stock price reversals by analyzing momentum using 1st and 2nd derivatives (velocity and acceleration). Cleaned time-series features, identified turning points with custom logic, and trained a Random Forest classifier using scikit-learn. Includes outlier detection, time-aware validation, and visualization of predicted reversal signals.
 # Tesla Stock Reversal Prediction via Velocity & Acceleration-Based ML
 
 An applied machine learning project predicting momentum reversals in Tesla stock using 1st and 2nd derivatives of price (velocity and acceleration). The model output is visualized in both Python and Tableau for interpretability.
